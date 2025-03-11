@@ -22,7 +22,7 @@
 🚀 How to Run  
 1️⃣ Clone the repository
 ```bash
-git clone
+git clone https://github.com/LovishTayal2/Twitter-Clone.git
 ```
 2️⃣ Navigate into the project folder
 ```bash
@@ -31,6 +31,6 @@ cd Twitter-Clone
 3️⃣ Open index.html in your browser
 
 🏗️ Future Enhancements  
-🔹 Dark Mode Support 🌙
-🔹 Backend Integration for Real Tweets 🛠️
+🔹 Dark Mode Support 🌙  
+🔹 Backend Integration for Real Tweets 🛠️  
 🔹 User Authentication & Profile Pages 🔑
